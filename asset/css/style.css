@@ -45,3 +45,15 @@ button{
   display: flex;
   justify-content:space-around;
 }
+.item{
+  margin-left: 12%;
+}
+#item{
+  display: flex;
+}
+hr{
+  background-color: gray;
+  height: 20px;
+  width: 80%;
+ 
+}
