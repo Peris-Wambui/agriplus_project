@@ -1,0 +1,20 @@
+body{
+    font: Poppins ;
+}
+.home{
+  display: flex;
+  justify-content: space-between;
+  margin: 10%;
+
+}
+  #home{
+    display: flex;
+    justify-items: center;
+  }
+  button{
+    color: azure;
+    background-color:#ED661F ;
+  }
+  #home2{
+    g
+  }
