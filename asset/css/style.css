@@ -23,4 +23,15 @@ body{
     display: flex;
     margin: 80px;
   }
+  .exist{
+    padding: 100px;
+    margin-left: 100px;
+    height: 500px;
+  }
+  .img3{
+    float: right;
+    height: 500px;
+    width: 800px;
+    margin-right: 100px;
+  }
  
