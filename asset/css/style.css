@@ -37,8 +37,7 @@ button{
   
 .produce{
   display: flex;
-  background-image: url("/asset/image/image1.png");
-  margin: 10%
+
 }
 .exist{
   padding: 100px;
