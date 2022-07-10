@@ -21,7 +21,7 @@ button{
   
 .produce{
   display: flex;
-  margin: 80px
+  margin: 10%
 }
 .exist{
   padding: 100px;
@@ -37,6 +37,11 @@ button{
 #products{
   text-align: center;
   }
-.popular{
-  margin: 10%;
+  #h3popular{
+    margin-left: 12%;
+  }
+#popular{
+  margin-left: 30%;
+  display: flex;
+  justify-content:space-around;
 }
