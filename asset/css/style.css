@@ -7,14 +7,12 @@ body{
   margin: 10%;
 
 }
-  #home{
-    display: flex;
-    justify-items: center;
-  }
+  
   button{
     color: azure;
     background-color:#ED661F ;
+    width: 100px;
+    height: 40px;
   }
-  #home2{
-    g
-  }
+  
+  
