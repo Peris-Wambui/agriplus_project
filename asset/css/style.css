@@ -37,7 +37,7 @@ button{
 #products{
   text-align: center;
   }
-  #h3popular, #h3item{
+#h3popular, #h3item{
     margin-left: 45px;
   }
 #popular, #item{
@@ -54,9 +54,6 @@ button{
 .img{
   width: 340px;
 }
-
-
-
 #all{
  margin: 10%;
  display: flex;
@@ -73,5 +70,12 @@ hr{
 }
 .response{
   display: flex;
+  justify-content: space-between;
 }
-
+.r{
+  float: right;
+  margin-left: -200px;
+}
+.span{
+  margin-left: 100px;
+}
