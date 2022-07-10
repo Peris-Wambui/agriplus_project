@@ -37,20 +37,26 @@ button{
 #products{
   text-align: center;
   }
-  #h3popular{
-    margin-left: 12%;
+  #h3popular, #h3item{
+    margin-left: 45px;
   }
-#popular{
-  margin-left: 30%;
+#popular, #item{
   display: flex;
-  justify-content:space-around;
+  justify-content: space-around;
+
 }
-.item{
- margin: 10%;
+.popular, .item{
+  margin: 40px;
 }
-#item{
-  display: flex;
+.popular2, .item2{
+  width: 340px;
 }
+.img{
+  width: 340px;
+}
+
+
+
 #all{
  margin: 10%;
  display: flex;
@@ -68,3 +74,4 @@ hr{
 .response{
   display: flex;
 }
+
