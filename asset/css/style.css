@@ -51,12 +51,20 @@ button{
 #item{
   display: flex;
 }
+#all{
+ margin: 10%;
+ display: flex;
+ justify-content: end;
+}
+
 hr{
   background-color: gray;
   height: 20px;
   width: 80%;
- 
 }
-#customers{
+.customers{
   margin: 10%;
+}
+.response{
+  display: flex;
 }
