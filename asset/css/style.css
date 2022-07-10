@@ -1,6 +1,10 @@
 body{
     font: Poppins ;
 }
+ .nav{
+  display: flex;
+  
+ }
 .home{
   display: flex;
   justify-content: space-between;
