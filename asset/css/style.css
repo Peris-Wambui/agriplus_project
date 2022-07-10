@@ -1,26 +1,43 @@
 body{
-    font: Poppins ;
+  font-family:Poppins, Inter ;
 }
  .nav{
   display: flex;
+  margin-top: 30px;
+
+  /* justify-content: space-between; */
   
  }
 .home{
-  
   display: flex;
   justify-content: space-between;
-  margin: 10%;
-
+  background-color: black;
+  color: white;
+  height: 100px;
+  font: bold;
 }
-  
+.home1{
+  margin-left: 100px;
+  font-size: 30px;
+}
+.home2, .home3, .home4, .home5{
+  margin-left: 100px;
+}
+.home6{
+  margin-top: 30px;
+  margin-left: 100px;
+}
 button{
   background-color:#ED661F ;
+  margin-top: 30px;
+  margin-right: 100px;
   width: 100px;
   height: 40px;
 }
   
 .produce{
   display: flex;
+  background-image: url("/asset/image/image1.png");
   margin: 10%
 }
 .exist{
@@ -79,10 +96,16 @@ hr{
 }
 .res{
   box-shadow: 2px 2px  2px 1px gray;
-  height: 200px;
+  height: 300px;
+  /* font-family: Poppins; */
 
 }
 .rr{
   float: right;
   margin-right: 170px;
+}
+.fa{
+  color: #ED661F;
+  font-size: 50px;
+  margin-top: 30px;
 }
