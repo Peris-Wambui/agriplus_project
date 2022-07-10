@@ -28,12 +28,15 @@ button{
   margin-left: 100px;
   height: 500px;
 }
-  .img3{
+.img3{
   float: right;
   height: 500px;
   width: 800px;
   margin-right: 100px;
   }
-  #products{
-    text-align: center;
+#products{
+  text-align: center;
   }
+.popular{
+  margin: 10%;
+}
