@@ -6,32 +6,31 @@ body{
   
  }
 .home{
+  
   display: flex;
   justify-content: space-between;
   margin: 10%;
 
 }
   
-  button{
-    color: azure;
-    background-color:#ED661F ;
-    width: 100px;
-    height: 40px;
-  }
+button{
+  background-color:#ED661F ;
+  width: 100px;
+  height: 40px;
+}
   
-  .produce{
-    display: flex;
-    margin: 80px;
-  }
-  .exist{
-    padding: 100px;
-    margin-left: 100px;
-    height: 500px;
-  }
+.produce{
+  display: flex;
+  margin: 80px
+}
+.exist{
+  padding: 100px;
+  margin-left: 100px;
+  height: 500px;
+}
   .img3{
-    float: right;
-    height: 500px;
-    width: 800px;
-    margin-right: 100px;
+  float: right;
+  height: 500px;
+  width: 800px;
+  margin-right: 100px;
   }
- 
