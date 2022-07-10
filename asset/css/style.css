@@ -74,8 +74,15 @@ hr{
 }
 .r{
   float: right;
-  margin-left: -200px;
+  margin-right: 100px;
+  
 }
-.span{
-  margin-left: 100px;
+.res{
+  box-shadow: 2px 2px  2px 1px gray;
+  height: 200px;
+
+}
+.rr{
+  float: right;
+  margin-right: 170px;
 }
