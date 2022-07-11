@@ -39,7 +39,19 @@ button{
 .produce{
   background-repeat: no-repeat;
   background-size: cover;
-  height: 600px;
+  background-position-y: center;
+  height: 800px;
+  display: flex;
+  justify-content: space-around;
+}
+.img2{
+  height: 500px;
+  width: 700px;
+  margin-top: 100px;
+
+}
+.cover{
+  margin-top: 200px;
 }
 .exist{
   padding: 100px;
@@ -123,5 +135,10 @@ hr{
   color: white;
   text-align: center;
   height: 300px;
-  
+
+}
+#rights{
+  background-color: black;
+  color: white;
+  height: 600px;
 }
