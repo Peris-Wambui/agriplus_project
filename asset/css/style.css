@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap'); 
 body{
   font-family:Poppins, Inter ;
   /* margin: 10%; */
@@ -48,10 +49,27 @@ button{
   height: 500px;
   width: 700px;
   margin-top: 100px;
+  margin-right: 150px;
 
 }
 .cover{
-  margin-top: 200px;
+  margin-top: 150px;
+  margin-left: 150px;
+}
+#coverh2{
+  font-size: 60px;
+  font-style: bold;
+}
+#coverp{
+  margin-top: 0;
+  font-size: 25px;
+}
+#explore{
+  color: white;
+  font: bold;
+  font-size: 22px;
+  height: 80px;
+  width: 150px;
 }
 .exist{
   padding: 100px;
@@ -128,7 +146,7 @@ hr{
   justify-content: end;
  }
 #footer{
-  margin: 10%;
+
 }
 #intouch{
   background-color: black;
@@ -140,5 +158,17 @@ hr{
 #rights{
   background-color: black;
   color: white;
-  height: 600px;
+  height: 300px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 5px;
+
+}
+#p{
+  background-color: black;
+  height: 50px;
+  color: white;
+  display: flex;
+ text-align: center;
+
 }
