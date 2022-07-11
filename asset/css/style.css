@@ -114,3 +114,6 @@ hr{
   display: flex;
   justify-content: end;
  }
+#footer{
+  margin: 10%;
+}
