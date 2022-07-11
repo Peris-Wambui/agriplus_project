@@ -37,8 +37,9 @@ button{
 }
   
 .produce{
-  display: flex;
-
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
 }
 .exist{
   padding: 100px;
@@ -116,4 +117,11 @@ hr{
  }
 #footer{
   margin: 10%;
+}
+#intouch{
+  background-color: black;
+  color: white;
+  text-align: center;
+  height: 300px;
+  
 }
