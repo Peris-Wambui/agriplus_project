@@ -1,5 +1,6 @@
 body{
   font-family:Poppins, Inter ;
+  /* margin: 10%; */
 }
  .nav{
   display: flex;
@@ -108,3 +109,8 @@ hr{
   font-size: 50px;
   margin-top: 30px;
 }
+#more{
+  margin: 10%;
+  display: flex;
+  justify-content: end;
+ }
