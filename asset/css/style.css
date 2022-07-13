@@ -68,11 +68,12 @@ button {
 
 .produce {
   background-repeat: no-repeat;
-  background-size: cover;
+  /* background-size: cover; */
   background-position-y: center;
   height: 800px;
   display: flex;
   justify-content: space-around;
+  
 }
 
 .img2 {
@@ -84,18 +85,19 @@ button {
 }
 
 .cover {
-  margin-top: 150px;
+  margin-top: 120px;
   margin-left: 150px;
 }
 
 #coverh2 {
   font-size: 60px;
-  font-style: bold;
+  font-weight: 1000;
 }
 
 #coverp {
   margin-top: 0;
-  font-size: 25px;
+  font-size: 15px;
+  font-weight: lighter;
 }
 
 #explore {
@@ -103,9 +105,32 @@ button {
   font: bold;
   font-size: 22px;
   height: 80px;
-  width: 150px;
+  width: 200px;
 }
+#explore a{
+  text-decoration: none;
+  color: #fff;
+  font-weight: 900;
+}
+.numbers{
+  display: flex;
+  justify-content: space-between;
+  border: 10px;
+  background-color: #fff;
+  box-shadow: 2px 3px grey;
+  width: 800px;
+  position: absolute;
+  right: 150px;
+  bottom: 8px;
+  
 
+}
+#numbers1{
+  margin-left: 15px;
+}
+#numbers3{
+  margin-right: 15px;
+}
 .exist {
   padding: 100px;
   margin-left: 100px;
