@@ -49,7 +49,9 @@ body {
   margin-top: 20px;
   margin-left: 100px;
   }
-
+.home6 a{
+  text-decoration: none;
+}
 button {
   background-color: #ED661F;
   margin-top: 30px;
