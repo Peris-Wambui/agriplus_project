@@ -30,7 +30,7 @@ body {
   background-color: black;
   color: white;
   height: 100px;
-  font: bold;
+  font-weight: 900;
 }
 
 .home1 {
@@ -51,6 +51,7 @@ body {
   }
 .home6 a{
   text-decoration: none;
+  color: #fff;
 }
 button {
   background-color: #ED661F;
@@ -58,6 +59,11 @@ button {
   margin-right: 100px;
   width: 100px;
   height: 40px;
+}
+.start a{
+  text-decoration: none;
+  color: #fff;
+  font-weight: 900;
 }
 
 .produce {
