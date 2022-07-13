@@ -122,8 +122,6 @@ button {
   position: absolute;
   right: 150px;
   bottom: 8px;
-  
-
 }
 #numbers1{
   margin-left: 15px;
@@ -132,7 +130,7 @@ button {
   margin-right: 15px;
 }
 .exist {
-  padding: 100px;
+  padding: 120px;
   margin-left: 100px;
   height: 500px;
 }
